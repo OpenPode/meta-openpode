@@ -13,7 +13,6 @@ This layer depends on :
 - [ ] Eclipse-debug tools
 - [x] bluez5 / bluetoothctl
 - [ ] i2c-tools
-- [ ] bcm2835 header/lib
 - [ ] Python3
 - [ ] python3-setuptools
 - [ ] ds4drv
