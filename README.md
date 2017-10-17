@@ -12,7 +12,7 @@ This layer depends on :
 - [x] SSH server
 - [ ] Eclipse-debug tools
 - [x] bluez5 / bluetoothctl
-- [ ] i2c-tools
+- [x] i2c-tools (test)
 - [ ] Python3
 - [ ] python3-setuptools
 - [ ] ds4drv
