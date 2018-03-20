@@ -13,6 +13,6 @@ This layer depends on :
 - [ ] Eclipse-debug tools
 - [x] bluez5 / bluetoothctl
 - [x] i2c-tools (test)
-- [ ] Python3
-- [ ] python3-setuptools
-- [ ] ds4drv
+- [x] Python3
+- [x] python3-setuptools
+- [x] ds4drv
